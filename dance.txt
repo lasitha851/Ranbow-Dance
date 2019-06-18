@@ -2,5 +2,6 @@ This is a Rainbow Dance
 
 Step Left
 Step Right
+show you hands
 Jump up and down
 do the Rainbow Dance
